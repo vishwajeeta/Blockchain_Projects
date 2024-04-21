@@ -1,0 +1,6 @@
+>git clone -b starter_code https://github.com/dappuniversity/millow
+
+//we have all the dependency on our package.json regarding hardhat and essential setups
+>npm install
+
+//we will be using ether.js which come's with hardhat also
