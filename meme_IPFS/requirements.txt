@@ -1,0 +1,5 @@
+//install node
+//install ganache
+//installing truffle
+npm install -g truffle@5.0.5
+git clone https://github.com/dappuniversity/starter_kit meme
